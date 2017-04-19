@@ -1,0 +1,13 @@
+{
+	"manifest_version": 1,
+	"name": "Glover",
+	"version": "1.0",
+
+	"description": "Glover is an anti-browser-fingerprinting addon that prevents and hampers attempts to identify users based off of their browser configurations.",
+	
+	"icons": {
+		"Glover": "resources/icons/taskbar.png"
+	},
+
+	"homepage_url": "https://github.com/stubbybubby/Glover"
+}
